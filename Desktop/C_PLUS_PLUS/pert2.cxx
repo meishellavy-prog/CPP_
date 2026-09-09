@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
-// int main(){
-//     cout << "Hello kelas 01TPLP013"<< endl;
-//     cout << "Selamat belajar Algoritma dan Pemrograman dasar"<< endl;
-//     return 0;
-// }
+int main(){
+    cout << "Hello kelas 01TPLP013"<< endl;
+    cout << "Selamat belajar Algoritma dan Pemrograman dasar"<< endl;
+    return 0;
+}
 
 int main(){
      cout << "berikut biodata saya:"<< endl;
