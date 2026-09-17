@@ -1,23 +1,24 @@
-// int main(){
-    //     cout << "Hello kelas 01TPLP013"<< endl;
-    //     cout << "Selamat belajar Algoritma dan Pemrograman dasar"<< endl;
-    //     //BIODATA:
-    //     cout << "berikut biodata saya:"<< endl;
-    //     cout << "Nama: Meishella Noer Alysia" << endl;
-    //     cout << "Kelas: 01TPLP013" << endl;
-    //     cout << "Alamat: Jl. Poncol gang II rt.001/rw.004" << endl;
-    //     cout << "Tempat, Tanggal Lahir: Jakarta, 19 Mei 2007" << endl;
-    //     return 0;
-    // }
-    
-    #include <iostream>
-    using namespace std;
+
+#include <iostream>
+using namespace std;
+int tgs1(){
+        cout << "Hello kelas 01TPLP013"<< endl;
+        cout << "Selamat belajar Algoritma dan Pemrograman dasar"<< endl;
+        //BIODATA:
+        cout << "berikut biodata saya:"<< endl;
+        cout << "Nama: Meishella Noer Alysia" << endl;
+        cout << "Kelas: 01TPLP013" << endl;
+        cout << "Alamat: Jl. Poncol gang II rt.001/rw.004" << endl;
+        cout << "Tempat, Tanggal Lahir: Jakarta, 19 Mei 2007" << endl;
+        return 0;
+    }
 //tugas 3 tanggal 16 September 2026 
 //algoritma dan pemrograman dasar
 //Meishella Noer Alysia
 //01TPLP013
 //Bukti program 7 + 3*2 - (8%3) = 11 adalah sebagai berikut:
 int main() {
+    tgs1();
     int result = 7 + 3 * 2 - (8 % 3);
     cout << "Hasil dari 7 + 3*2 - (8%3) = " << result << endl;  
 //program konversi suhu celcius ke fahrenheit menggunakan rumus F = (C * 9/5) + 32
